@@ -1,0 +1,8 @@
+C:\Users\arhod\Desktop\Content\Code\CurrencyExercise\CurrencyExercise.Data\bin\Debug\CurrencyExercise.Data.dll
+C:\Users\arhod\Desktop\Content\Code\CurrencyExercise\CurrencyExercise.Data\bin\Debug\CurrencyExercise.Data.pdb
+C:\Users\arhod\Desktop\Content\Code\CurrencyExercise\CurrencyExercise.Data\bin\Debug\System.Data.SQLite.dll
+C:\Users\arhod\Desktop\Content\Code\CurrencyExercise\CurrencyExercise.Data\bin\Debug\System.Data.SQLite.xml
+C:\Users\arhod\Desktop\Content\Code\CurrencyExercise\CurrencyExercise.Data\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\arhod\Desktop\Content\Code\CurrencyExercise\CurrencyExercise.Data\obj\Debug\CurrencyExercise.Data.csprojResolveAssemblyReference.cache
+C:\Users\arhod\Desktop\Content\Code\CurrencyExercise\CurrencyExercise.Data\obj\Debug\CurrencyExercise.Data.dll
+C:\Users\arhod\Desktop\Content\Code\CurrencyExercise\CurrencyExercise.Data\obj\Debug\CurrencyExercise.Data.pdb

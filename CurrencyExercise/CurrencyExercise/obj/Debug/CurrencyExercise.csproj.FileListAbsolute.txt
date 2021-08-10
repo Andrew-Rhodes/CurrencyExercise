@@ -1,0 +1,17 @@
+C:\Users\arhod\Desktop\Content\Code\CurrencyExercise\CurrencyExercise\bin\Debug\CurrencyExercise.exe.config
+C:\Users\arhod\Desktop\Content\Code\CurrencyExercise\CurrencyExercise\bin\Debug\CurrencyExercise.exe
+C:\Users\arhod\Desktop\Content\Code\CurrencyExercise\CurrencyExercise\bin\Debug\CurrencyExercise.pdb
+C:\Users\arhod\Desktop\Content\Code\CurrencyExercise\CurrencyExercise\bin\Debug\CurrencyExercise.Data.dll
+C:\Users\arhod\Desktop\Content\Code\CurrencyExercise\CurrencyExercise\bin\Debug\Newtonsoft.Json.dll
+C:\Users\arhod\Desktop\Content\Code\CurrencyExercise\CurrencyExercise\bin\Debug\OpenExchangeRates.dll
+C:\Users\arhod\Desktop\Content\Code\CurrencyExercise\CurrencyExercise\bin\Debug\System.Data.SQLite.dll
+C:\Users\arhod\Desktop\Content\Code\CurrencyExercise\CurrencyExercise\bin\Debug\CurrencyExercise.Data.pdb
+C:\Users\arhod\Desktop\Content\Code\CurrencyExercise\CurrencyExercise\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\arhod\Desktop\Content\Code\CurrencyExercise\CurrencyExercise\bin\Debug\Newtonsoft.Json.xml
+C:\Users\arhod\Desktop\Content\Code\CurrencyExercise\CurrencyExercise\bin\Debug\System.Data.SQLite.xml
+C:\Users\arhod\Desktop\Content\Code\CurrencyExercise\CurrencyExercise\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\arhod\Desktop\Content\Code\CurrencyExercise\CurrencyExercise\obj\Debug\CurrencyExercise.csprojResolveAssemblyReference.cache
+C:\Users\arhod\Desktop\Content\Code\CurrencyExercise\CurrencyExercise\obj\Debug\CurrencyExercise.exe
+C:\Users\arhod\Desktop\Content\Code\CurrencyExercise\CurrencyExercise\obj\Debug\CurrencyExercise.pdb
+C:\Users\arhod\Desktop\Content\Code\CurrencyExercise\CurrencyExercise\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\arhod\Desktop\Content\Code\CurrencyExercise\CurrencyExercise\bin\Debug\System.Net.Http.Formatting.xml
